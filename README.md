@@ -1,12 +1,12 @@
 # FlightData-project
 ## In this project the main goal is to understand the routes for flights of United states airlines and to search the possible reason for delay
 ### list of all data set
-### flight data: specific airline data recording plane activity across a year
-### airport data: recorded the airport information
-### master data:  N-number of Air craft which support plane type 
-### cftref data: aircraft type information
-### airline data: airline information
-### map data: accurate map information
+#### flight data: specific airline data recording plane activity across a year
+#### airport data: recorded the airport information
+#### master data:  N-number of Air craft which support plane type 
+#### cftref data: aircraft type information
+#### airline data: airline information
+#### map data: accurate map information
  
 ## First, to read the mega data into Python, creating the module called 'readflightdata.py'
 ### Creating class called 'totaldata' which includes flightdata, airportdata, masterdata, acftrefdata, airlinedata, amd mapdata and next support the data cleanse and exploration.
